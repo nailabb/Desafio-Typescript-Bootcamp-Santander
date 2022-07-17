@@ -1,4 +1,4 @@
-# 🚀 Desafio-Typescript-Bootcamp-Santander
+# 🚀 Desafio Typescript Bootcamp Santander
 
 <h2> Descrição do Desafio </h2>
 Este repositório é mostrar os desafios de typescript da Aula de typescrip no Bootcamp DIO Santander Fullstack.
